@@ -4,9 +4,9 @@ interface IAttributes {
 
 const createAndAppendElement = (
     what: string = 'div',
-    where: HTMLElement  = document.body,
-    className: string | string[] = '',
-    attributes: IAttributes,
+    where: HTMLElement = document.body,
+    className?: string | string[],
+    attributes?: IAttributes,
 ): HTMLElement => {
     const elem = document.createElement(what);
 
