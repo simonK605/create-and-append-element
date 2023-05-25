@@ -1,10 +1,14 @@
 {
   "name": "create-and-append-element",
   "version": "0.1.0",
-  "description": "",
+  "description": "Create element what you want and where you want",
   "main": "index.ts",
   "scripts": {
     "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonK605/create-and-append-element.git"
   },
   "keywords": [
     "ts",
@@ -19,5 +23,12 @@
     "css"
   ],
   "author": "Simon",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonK605/create-and-append-element/issues"
+  },
+  "publishConfig": {
+    "@simonkarapetyan:registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/simonK605/create-and-append-element#readme"
 }
