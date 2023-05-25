@@ -1,0 +1,23 @@
+{
+  "name": "create-and-append-element",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "ts",
+    "js",
+    "dom",
+    "javascript",
+    "typescript",
+    "create",
+    "element",
+    "div",
+    "html",
+    "css"
+  ],
+  "author": "Simon",
+  "license": "ISC"
+}
