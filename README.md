@@ -1,7 +1,7 @@
 # create-and-append-element
-> With this package you can create what you want and append it where you want.
+> This package allows you to create and place any HTML tag of your choice with ease.
 
-This is my first package, hope it will be helpful. :heart:
+This is my first package, hope it will be helpful. :)
 
 ## Install
 Install with [npm](https://www.npmjs.com/):
