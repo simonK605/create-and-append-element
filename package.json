@@ -1,6 +1,6 @@
 {
   "name": "create-and-append-element",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Create element what you want and where you want",
   "main": "index.ts",
   "scripts": {
@@ -11,13 +11,18 @@
     "url": "git+https://github.com/simonK605/create-and-append-element.git"
   },
   "keywords": [
+    "create",
+    "uppend",
+    "element",
+    "class",
+    "class",
+    "make",
+    "attribute",
     "ts",
     "js",
     "dom",
     "javascript",
     "typescript",
-    "create",
-    "element",
     "div",
     "html",
     "css"

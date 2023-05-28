@@ -10,7 +10,7 @@ $ npm install create-and-append-element
 ```
 
 ## Usage
-```ts
+```js
 import createAndAppendElement from 'create-and-append-element';
 
 // createAndAppendElement('tagName', whereToAppend, 'class', { attribute: value })
